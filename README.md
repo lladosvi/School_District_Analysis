@@ -1,12 +1,12 @@
 # School_District_Analysis
 
-Overview of the School District Analysis
+## Overview of the School District Analysis
 
 A school district asked for a snapshot of several key metrics by each school campus and by the district level. The main analysis focused on the performance of math and reading scores disaggregated several ways in preparation for a board meeting. However, after the school board reviewed the data, it was determined that the data from Thomas High School's 9th grade class was suspect. The school board asked for the data to be removed and analyzed again.
 
-Results
+## Results
 
-How is the district summary affected?
+### How is the district summary affected?
 
 Origonal Analysis:
 
@@ -20,7 +20,7 @@ Updated Analysis:
 
 When comparing the two charts, the updated analysis had a nominal impact on the results. As you can see from the charts the differences in some of the metrics are minimal and the results would still round to the same whole number.
 
-How is the school summary affected?
+### How is the school summary affected?
 
 Origonal Analysis:
 
@@ -36,7 +36,7 @@ Removing the 9th grade students from the data set had a huge impact by dropping 
 ![image](https://user-images.githubusercontent.com/96096924/149882126-f2b4e713-8cd2-455d-a1ee-12831e2faf42.png)
 ![image](https://user-images.githubusercontent.com/96096924/149882254-7a9380ae-6313-4729-b5dd-2d384ca3a97e.png)
 
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 In the original analysis, Thomas High School ranked 2nd in the district.
 
@@ -50,9 +50,9 @@ Updated Analysis:
 
 ![image](https://user-images.githubusercontent.com/96096924/149883555-0c41d6f9-f713-4237-8a86-ab1ca4eaa1dd.png)
 
-How does replacing the ninth-grade scores affect the following:
+### How does replacing the ninth-grade scores affect the following:
 
-Math and reading scores by grade
+#### Math and reading scores by grade
 
 In the original analysis, Thomas High School had 83.6 math average and 83.7 reading average for the 9th grade tests. Now the scores have been replaced with null values and shows up in Python programming as NaN in the following charts.
 
@@ -64,7 +64,7 @@ Reading by grade:
 
 ![image](https://user-images.githubusercontent.com/96096924/149884501-06b59961-9fcb-417c-9459-a0aa28e8eb52.png)
 
-Scores by school spending
+#### Scores by school spending
 
 Thomas High School falls in the $630-$644/student spending range. However, the hundredths place was needed to see the nominal changes. When rounding results to integers there absolutely no change as you can see below.
 
@@ -76,7 +76,7 @@ Updated Analysis:
 
 ![image](https://user-images.githubusercontent.com/96096924/149884941-28da35c4-4692-45b6-b08a-62cace6be4d8.png)
 
-Scores by school size
+#### Scores by school size
 
 Thomas High School is defined as a medium sized school. The hundredths place was needed to see the nominal changes similar to above when rounding there is absolutely no change as you can see below.
 
@@ -88,7 +88,7 @@ Updated Analysis:
 
 ![image](https://user-images.githubusercontent.com/96096924/149885499-d9f25b13-4e27-4118-aba7-aa068ef7eafa.png)
 
-Scores by school type
+#### Scores by school type
 
 Thomas High School is a charter school type. The hundredths place was needed to see the nominal changes but as you see below no changes when rounding.
 
@@ -100,7 +100,7 @@ Updated Analysis:
 
 ![image](https://user-images.githubusercontent.com/96096924/149885799-4d3b07f0-287d-42e0-baa0-fc65dba133c8.png)
 
-Summary
+## Summary
 
 1) The overall passing rate for Thomas High School changed dramatically from 91% to 65%.
 
