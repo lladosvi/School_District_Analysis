@@ -78,4 +78,14 @@ Updated Analysis:
 
 Scores by school size
 
+Thomas High School is defined as a medium sized school. The hundredths place was needed to see the nominal changes similar to above when rounding there is absolutely no change as you can see below.
+
+Original Analysis:
+
+![image](https://user-images.githubusercontent.com/96096924/149885438-0ef72599-9058-4f11-9d87-885fcb1adbed.png)
+
+Updated Analysis:
+
+![image](https://user-images.githubusercontent.com/96096924/149885499-d9f25b13-4e27-4118-aba7-aa068ef7eafa.png)
+
 Scores by school type
