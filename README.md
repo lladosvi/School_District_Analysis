@@ -25,7 +25,7 @@ How is the school summary affected?
 Origonal Analysis:
 
 ![image](https://user-images.githubusercontent.com/96096924/149882126-f2b4e713-8cd2-455d-a1ee-12831e2faf42.png)
-![image](https://user-images.githubusercontent.com/96096924/149882178-6f4ee365-18b6-4f62-8b45-cd5510a2a0ed.png)
+![image](https://user-images.githubusercontent.com/96096924/149882554-04cde081-5786-4d69-80b5-51f85b478355.png)
 
 Updated Analysis:
 
