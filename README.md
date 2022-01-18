@@ -49,3 +49,21 @@ After adjusting the 9th grade data, Thomas High School ranked in about 8th of 15
 Updated Analysis:
 
 ![image](https://user-images.githubusercontent.com/96096924/149883555-0c41d6f9-f713-4237-8a86-ab1ca4eaa1dd.png)
+
+How does replacing the ninth-grade scores affect the following:
+
+Math and reading scores by grade
+
+In the original analysis, Thomas High School had 83.6 math average and 83.7 reading average for the 9th grade tests. Now the scores have been replaced with null values and shows up in Python programming as NaN in the following charts.
+
+Math by grade:
+![image](https://user-images.githubusercontent.com/96096924/149884444-c0218b86-733b-4fd6-add1-ad3d26190619.png)
+
+Reading by grade:
+![image](https://user-images.githubusercontent.com/96096924/149884501-06b59961-9fcb-417c-9459-a0aa28e8eb52.png)
+
+Scores by school spending
+
+Scores by school size
+
+Scores by school type
