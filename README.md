@@ -57,12 +57,24 @@ Math and reading scores by grade
 In the original analysis, Thomas High School had 83.6 math average and 83.7 reading average for the 9th grade tests. Now the scores have been replaced with null values and shows up in Python programming as NaN in the following charts.
 
 Math by grade:
+
 ![image](https://user-images.githubusercontent.com/96096924/149884444-c0218b86-733b-4fd6-add1-ad3d26190619.png)
 
 Reading by grade:
+
 ![image](https://user-images.githubusercontent.com/96096924/149884501-06b59961-9fcb-417c-9459-a0aa28e8eb52.png)
 
 Scores by school spending
+
+Thomas High School falls in the $630-$644/student spending range. However, the hundredths place was needed to see the nominal changes. When rounding results to integers there absolutely no change as you can see below.
+
+Original Analysis:
+
+![image](https://user-images.githubusercontent.com/96096924/149885135-e9b98008-c022-4705-a54b-a116cd99dfc5.png)
+
+Updated Analysis:
+
+![image](https://user-images.githubusercontent.com/96096924/149884941-28da35c4-4692-45b6-b08a-62cace6be4d8.png)
 
 Scores by school size
 
