@@ -24,10 +24,14 @@ How is the school summary affected?
 
 Origonal Analysis:
 
+In the original analysis, Thomas High School started with a 91% overall passing rate, which was a concern to the school board as being very high.
+
 ![image](https://user-images.githubusercontent.com/96096924/149882126-f2b4e713-8cd2-455d-a1ee-12831e2faf42.png)
 ![image](https://user-images.githubusercontent.com/96096924/149882554-04cde081-5786-4d69-80b5-51f85b478355.png)
 
 Updated Analysis:
+
+Removing the 9th grade students from the data set had a huge impact by dropping from 91% to 65% for the overall passing rate.
 
 ![image](https://user-images.githubusercontent.com/96096924/149882126-f2b4e713-8cd2-455d-a1ee-12831e2faf42.png)
 ![image](https://user-images.githubusercontent.com/96096924/149882254-7a9380ae-6313-4729-b5dd-2d384ca3a97e.png)
