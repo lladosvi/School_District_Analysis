@@ -43,17 +43,21 @@ But when further completing the analysis by eliminating completely the 9th grade
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-In the original analysis, Thomas High School ranked 2nd in the district.
-
 Original Analysis:
+
+In the original analysis, Thomas High School ranked 2nd in the district.
 
 ![image](https://user-images.githubusercontent.com/96096924/149883030-e6ca48f8-8b5d-41f8-9aad-1debf39b342e.png)
 
-After adjusting the 9th grade data, Thomas High School ranked in about 8th of 15 campuses.
-
 Updated Analysis:
 
+When considering the 9th grade scoring as null, Thomas High School ranked in about 8th of 15 campuses.
+
 ![image](https://user-images.githubusercontent.com/96096924/149883555-0c41d6f9-f713-4237-8a86-ab1ca4eaa1dd.png)
+
+But when looking only at 10th thru 12th grade again the position the school in the 2nd location.
+
+![image](https://user-images.githubusercontent.com/96096924/149888957-cb032ac7-7d1a-4462-8cd8-7d5d25d6699d.png)
 
 ### How does replacing the ninth-grade scores affect the following:
 
