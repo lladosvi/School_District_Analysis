@@ -111,12 +111,10 @@ Updated Analysis:
 
 ## Summary
 
-1) The overall passing rate for Thomas High School changed dramatically from 91% to 65%.
+1) The overall passing rate for Thomas High School changed dramatically from 91% to 65% when considering 9th grade grades null but continues to be 91% if you look only at 10th thru 12th grade.
 
-2) Thomas High School's ranking dropped from 2nd to 8th in the district of 15 campuses.
+2) Thomas High School's ranking dropped from 2nd to 8th in the district of 15 campuses when considering 9th grade grades null, but mantains its positioning when looking at 10th thru 12th grade. 
 
 3) Data at the grade level will now show as "NaN" in reports for the 9th grade students at Thomas High School
 
-4) In addition to the overall passing rate, the campus math and reading averages and passing percentages all saw shifts.
-
-The major changes will be seen at the lower views of the disaggregated data with minor impact to the larger data views.
+4) I would say in general eliminating the 9th graders at Thomas High School from the data did not have any significant impact in the metrics as we slices and diced the overall results particularly when we deleted the 9th grade data from the school vs replacing the scores with null values. 
