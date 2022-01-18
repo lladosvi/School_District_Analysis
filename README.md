@@ -89,3 +89,25 @@ Updated Analysis:
 ![image](https://user-images.githubusercontent.com/96096924/149885499-d9f25b13-4e27-4118-aba7-aa068ef7eafa.png)
 
 Scores by school type
+
+Thomas High School is a charter school type. The hundredths place was needed to see the nominal changes but as you see below no changes when rounding.
+
+Original Analysis:
+
+![image](https://user-images.githubusercontent.com/96096924/149885736-b83477a0-ad11-4187-a6bc-79425d063d80.png)
+
+Updated Analysis:
+
+![image](https://user-images.githubusercontent.com/96096924/149885799-4d3b07f0-287d-42e0-baa0-fc65dba133c8.png)
+
+Summary
+
+1) The overall passing rate for Thomas High School changed dramatically from 91% to 65%.
+
+2) Thomas High School's ranking dropped from 2nd to 8th in the district of 15 campuses.
+
+3) Data at the grade level will now show as "NaN" in reports for the 9th grade students at Thomas High School
+
+4) In addition to the overall passing rate, the campus math and reading averages and passing percentages all saw shifts.
+
+The major changes will be seen at the lower views of the disaggregated data with minor impact to the larger data views.
