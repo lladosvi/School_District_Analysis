@@ -12,7 +12,7 @@ Origonal Analysis:
 
 ![image](https://user-images.githubusercontent.com/96096924/149880964-e4399e08-8f97-49ff-926b-84dc3a74b45c.png)
 
-The testing data of the 9th graders at Thomas High School was turned into null data, which recalculated the percentages of passing math, passing reading, and the overall passing. The total count of students did not change as that was run on the count of the student ids, which was not turned into null data.
+The testing data of the 9th graders at Thomas High School was turned into null data, which recalculated the percentages of passing math, passing reading, and the overall passing excluding this 9th graders from the counts. 
 
 Updated Analysis:
 
@@ -31,10 +31,15 @@ In the original analysis, Thomas High School started with a 91% overall passing 
 
 Updated Analysis:
 
-Removing the 9th grade students from the data set had a huge impact by dropping from 91% to 65% for the overall passing rate.
+Considering the 9th grade grades as null had a huge impact by dropping from 91% to 65% for the overall passing rate.
 
 ![image](https://user-images.githubusercontent.com/96096924/149882126-f2b4e713-8cd2-455d-a1ee-12831e2faf42.png)
 ![image](https://user-images.githubusercontent.com/96096924/149882254-7a9380ae-6313-4729-b5dd-2d384ca3a97e.png)
+
+But when further completing the analysis by eliminating completely the 9th grade data and looking only at 10th thru 12th grade for Thomas High School, then the results don't change much
+
+![image](https://user-images.githubusercontent.com/96096924/149882126-f2b4e713-8cd2-455d-a1ee-12831e2faf42.png)
+![image](https://user-images.githubusercontent.com/96096924/149888597-f91b3e21-8c67-4abf-8930-beb703d7f861.png)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
