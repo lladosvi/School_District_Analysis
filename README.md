@@ -94,7 +94,7 @@ Thomas High School is a charter school type. The hundredths place was needed to 
 
 Original Analysis:
 
-![image](https://user-images.githubusercontent.com/96096924/149885736-b83477a0-ad11-4187-a6bc-79425d063d80.png)
+![image](https://user-images.githubusercontent.com/96096924/149886160-152bda4e-f823-4c4b-9cd1-c503d438695f.png)
 
 Updated Analysis:
 
